@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6B0BF087-5318-F62C-F447-88AE824C004B}") = "WaterBottleRecognizer", "Assembly-CSharp.csproj", "{2A8E1EBD-E643-2BFC-8640-474CAE922FF5}"
+EndProject
+Project("{6B0BF087-5318-F62C-F447-88AE824C004B}") = "WaterBottleRecognizer", "Assembly-CSharp-Editor.csproj", "{8534FDC1-18F6-B749-DA8D-1B047FD7676A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8E1EBD-E643-2BFC-8640-474CAE922FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8E1EBD-E643-2BFC-8640-474CAE922FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8E1EBD-E643-2BFC-8640-474CAE922FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8E1EBD-E643-2BFC-8640-474CAE922FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8534FDC1-18F6-B749-DA8D-1B047FD7676A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8534FDC1-18F6-B749-DA8D-1B047FD7676A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8534FDC1-18F6-B749-DA8D-1B047FD7676A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8534FDC1-18F6-B749-DA8D-1B047FD7676A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
